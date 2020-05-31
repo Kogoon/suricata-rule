@@ -76,3 +76,4 @@
 05/30/2020-22:17:36.324551  [**] [1:10016:1] awseducate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:49528 -> 52.218.205.50:80
 05/30/2020-22:17:37.091235  [**] [1:10016:1] awseducate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:57410 -> 161.71.176.52:80
 05/30/2020-22:17:38.998713  [**] [1:10009:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:56808 -> 52.85.190.157:80
+05/30/2020-22:18:10.815388  [**] [1:10017:1] lolchess.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:52670 -> 52.85.193.43:80
