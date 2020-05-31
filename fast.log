@@ -73,3 +73,6 @@
 05/30/2020-22:15:56.467144  [**] [1:10013:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:39664 -> 52.34.158.161:80
 05/30/2020-22:16:37.406749  [**] [1:10014:1] joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:46114 -> 210.125.239.51:80
 05/30/2020-22:17:08.001402  [**] [1:10015:1] acmicpc.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:45094 -> 52.85.193.104:80
+05/30/2020-22:17:36.324551  [**] [1:10016:1] awseducate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:49528 -> 52.218.205.50:80
+05/30/2020-22:17:37.091235  [**] [1:10016:1] awseducate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:57410 -> 161.71.176.52:80
+05/30/2020-22:17:38.998713  [**] [1:10009:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:56808 -> 52.85.190.157:80
