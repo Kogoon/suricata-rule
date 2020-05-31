@@ -60,3 +60,14 @@
 05/30/2020-22:13:19.062589  [**] [1:10009:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:59134 -> 23.53.32.11:80
 05/30/2020-22:14:47.764843  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:33722 -> 211.231.99.80:80
 05/30/2020-22:14:48.056020  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:46150 -> 203.133.167.16:80
+05/30/2020-22:15:26.044270  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:36548 -> 182.162.61.207:80
+05/30/2020-22:15:26.060096  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:36548 -> 182.162.61.207:80
+05/30/2020-22:15:26.066678  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:36552 -> 182.162.61.207:80
+05/30/2020-22:15:26.073800  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:36550 -> 182.162.61.207:80
+05/30/2020-22:15:26.086539  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:36554 -> 182.162.61.207:80
+05/30/2020-22:15:26.092683  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:36556 -> 182.162.61.207:80
+05/30/2020-22:15:26.100351  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:36558 -> 182.162.61.207:80
+05/30/2020-22:15:26.116471  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:36548 -> 182.162.61.207:80
+05/30/2020-22:15:26.147151  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:36550 -> 182.162.61.207:80
+05/30/2020-22:15:26.164649  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:36554 -> 182.162.61.207:80
+05/30/2020-22:15:56.467144  [**] [1:10013:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:39664 -> 52.34.158.161:80
