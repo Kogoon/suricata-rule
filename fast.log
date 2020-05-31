@@ -58,3 +58,5 @@
 05/30/2020-22:13:12.206578  [**] [1:10009:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:56202 -> 52.85.190.157:80
 05/30/2020-22:13:18.149444  [**] [1:10009:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:59134 -> 23.53.32.11:80
 05/30/2020-22:13:19.062589  [**] [1:10009:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:59134 -> 23.53.32.11:80
+05/30/2020-22:14:47.764843  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:33722 -> 211.231.99.80:80
+05/30/2020-22:14:48.056020  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:46150 -> 203.133.167.16:80
