@@ -52,3 +52,9 @@
 05/30/2020-22:03:24.149585  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:54190 -> 175.213.35.39:80
 05/30/2020-22:03:24.318297  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:54188 -> 175.213.35.39:80
 05/30/2020-22:11:56.280912  [**] [1:10008:1] nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:56362 -> 52.78.145.30:80
+05/30/2020-22:12:59.786848  [**] [1:10009:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:37056 -> 205.251.242.103:80
+05/30/2020-22:13:11.366882  [**] [1:2230010:1] SURICATA TLS invalid record/traffic [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 151.101.77.16:443 -> 192.168.0.13:44272
+05/30/2020-22:13:11.432093  [**] [1:2230010:1] SURICATA TLS invalid record/traffic [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.0.13:44272 -> 151.101.77.16:443
+05/30/2020-22:13:12.206578  [**] [1:10009:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:56202 -> 52.85.190.157:80
+05/30/2020-22:13:18.149444  [**] [1:10009:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:59134 -> 23.53.32.11:80
+05/30/2020-22:13:19.062589  [**] [1:10009:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:59134 -> 23.53.32.11:80
