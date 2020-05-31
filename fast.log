@@ -71,3 +71,4 @@
 05/30/2020-22:15:26.147151  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:36550 -> 182.162.61.207:80
 05/30/2020-22:15:26.164649  [**] [1:10012:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:36554 -> 182.162.61.207:80
 05/30/2020-22:15:56.467144  [**] [1:10013:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:39664 -> 52.34.158.161:80
+05/30/2020-22:16:37.406749  [**] [1:10014:1] joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:46114 -> 210.125.239.51:80
