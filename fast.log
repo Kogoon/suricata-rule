@@ -28,3 +28,5 @@
 05/30/2020-22:00:55.644175  [**] [1:10003:1] kogoon.works access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:56070 -> 27.0.236.139:80
 05/30/2020-22:02:00.347216  [**] [1:10005:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:41520 -> 216.58.220.142:80
 05/30/2020-22:02:00.472013  [**] [1:10005:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:42338 -> 172.217.26.4:80
+05/30/2020-22:02:36.595399  [**] [1:10006:1] tistory.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:57416 -> 211.231.108.151:80
+05/30/2020-22:02:36.642704  [**] [1:10006:1] tistory.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.13:57420 -> 211.231.108.151:80
