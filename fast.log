@@ -85,3 +85,4 @@
 05/31/2020-21:37:22.159588  [**] [1:10009:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:45580 -> 52.85.190.157:80
 05/31/2020-21:37:25.454144  [**] [1:10021:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:42242 -> 172.217.31.174:443
 05/31/2020-21:37:35.273375  [**] [1:10021:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:42268 -> 172.217.31.174:443
+05/31/2020-21:41:28.307348  [**] [1:10021:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:58330 -> 172.217.25.78:443
