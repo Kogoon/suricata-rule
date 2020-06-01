@@ -90,3 +90,17 @@
 05/31/2020-23:38:49.515702  [**] [1:10023:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:41676 -> 54.180.75.25:443
 05/31/2020-23:40:04.960776  [**] [1:10004:2] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:33582 -> 15.164.81.167:443
 05/31/2020-23:40:05.569286  [**] [1:10004:2] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:37170 -> 13.209.163.61:443
+05/31/2020-23:42:53.558291  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:35098 -> 104.16.123.127:443
+05/31/2020-23:42:54.089286  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:37012 -> 104.16.120.145:443
+05/31/2020-23:42:54.091031  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:37010 -> 104.16.120.145:443
+05/31/2020-23:42:54.091442  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:37016 -> 104.16.120.145:443
+05/31/2020-23:42:54.093353  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:37014 -> 104.16.120.145:443
+05/31/2020-23:42:54.185915  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:56088 -> 104.16.121.145:443
+05/31/2020-23:42:54.197536  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:56094 -> 104.16.121.145:443
+05/31/2020-23:42:54.199194  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:56092 -> 104.16.121.145:443
+05/31/2020-23:42:54.205718  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:56090 -> 104.16.121.145:443
+05/31/2020-23:42:54.212773  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:56098 -> 104.16.121.145:443
+05/31/2020-23:42:54.213974  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:56096 -> 104.16.121.145:443
+05/31/2020-23:42:54.894518  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:41514 -> 104.16.118.145:443
+05/31/2020-23:42:55.548594  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:56108 -> 104.16.121.145:443
+05/31/2020-23:42:55.550614  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:40538 -> 104.16.119.145:443
