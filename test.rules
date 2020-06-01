@@ -1,7 +1,7 @@
 alert tcp any any -> any 80 (msg:"naver.com access"; content:"GET /"; content:"Host: "; content:"naver.com"; sid:10001; rev:1;)
 alert tcp any any -> any 80 (msg:"gilgil.net access"; content:"GET /"; content:"Host: "; content:"gilgil.net"; sid:10002; rev:1;)
 alert tcp any any -> any 80 (msg:"kogoon.works access"; content:"GET /"; content:"Host: "; content:"kogoon.works"; sid:10003; rev:1;)
-alert tcp any any -> any 80 (msg:"github.com access"; content:"GET /"; content:"Host: "; content:"github.com"; sid:10004; rev:1;)
+alert tcp any any -> any 443 (msg:"github.com access"; tls_sni; content:"github.com"; nocase; isdataat:!1,relative; sid:10004; rev:2;)
 alert tcp any any -> any 80 (msg:"google.com access"; content:"GET /"; content:"Host: "; content:"google.com"; sid:10005; rev:1;)
 alert tcp any any -> any 80 (msg:"tistory.com access"; content:"GET /"; content:"Host: "; content:"tistory.com"; sid:10006; rev:1;)
 alert tcp any any -> any 443 (msg:"youtube.com access"; content:"youtube.com"; nocase; pcre:"/youtube.com$/"; sid:10007; rev:2;)
@@ -16,6 +16,6 @@ alert tcp any any -> any 80 (msg:"acmicpc.net access"; content:"GET /"; content:
 alert tcp any any -> any 80 (msg:"awseducate.com access"; content:"GET /"; content:"Host: "; content:"awseducate.com"; sid:10016; rev:1;)
 alert tcp any any -> any 80 (msg:"lolchess.gg access"; content:"GET /"; content:"Host: "; content:"lolchess.gg"; sid:10017; rev:1;)
 alert tcp any any -> any 80 (msg:"discord.gg access"; content:"GET /"; content:"Host: "; content:"discord.gg"; sid:10018; rev:1;)
-alert tcp any any -> any 80 (msg:"medium.com access"; content:"GET /"; content:"Host: "; content:"medium.com"; sid:10019; rev:1;)
+alert tcp any any -> any 443 (msg:"medium.com access";content:"medium.com"; nocase; pcre:"/mediun.com$/"; sid:10019; rev:2;)
 alert tcp any any -> any 80 (msg:"velog.io access"; content:"GET /"; content:"Host: "; content:"velog.io"; sid:10020; rev:1;)
-
+alert tcp any any -> any 443 (msg:"youtube.com access"; tls_cert_subject; content:"youtube.com"; nocase; pcre:"/youtube.com$/"; sid:10022; rev:1;)
