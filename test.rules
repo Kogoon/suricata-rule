@@ -18,3 +18,5 @@ alert tcp any any -> any 80 (msg:"lolchess.gg access"; content:"GET /"; content:
 alert tcp any any -> any 80 (msg:"discord.gg access"; content:"GET /"; content:"Host: "; content:"discord.gg"; sid:10018; rev:1;)
 alert tcp any any -> any 443 (msg:"medium.com access"; tls_sni; content:"medium.com"; nocase; isdataat:!1,relative; sid:10019; rev:2;)
 alert tcp any any -> any 80 (msg:"velog.io access"; content:"GET /"; content:"Host: "; content:"velog.io"; sid:10020; rev:1;)
+alert tcp any any -> any 443 (msg:"google.com https/tls access"; tls_sni; content:"google.com"; nocase; sid:10021; rev:1;)
+alert tcp any any -> any 443 (msg:"naver.com https/tls access"; tls_sni; content:"naver.com"; nocase; isdataat:!1,relative; sid:10022; rev:1;)
