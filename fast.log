@@ -109,3 +109,21 @@
 05/31/2020-23:46:42.588096  [**] [1:10010:2] gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:60292 -> 104.17.72.206:443
 05/31/2020-23:49:23.710214  [**] [1:10011:2] slack.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:40258 -> 52.198.217.116:443
 05/31/2020-23:49:25.991302  [**] [1:10007:3] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:50590 -> 172.217.175.78:443
+05/31/2020-23:52:59.558402  [**] [1:10021:1] google.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:58102 -> 172.217.174.100:443
+05/31/2020-23:52:59.716961  [**] [1:10021:1] google.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:58104 -> 172.217.174.100:443
+05/31/2020-23:53:04.627979  [**] [1:10001:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:46898 -> 125.209.222.142:80
+05/31/2020-23:53:04.645067  [**] [1:10022:1] naver.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:51042 -> 125.209.222.142:443
+05/31/2020-23:53:05.346179  [**] [1:10022:1] naver.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:50142 -> 210.89.168.68:443
+05/31/2020-23:53:05.484433  [**] [1:10022:1] naver.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:49324 -> 175.158.5.161:443
+05/31/2020-23:53:06.315124  [**] [1:10022:1] naver.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:51150 -> 210.89.168.36:443
+05/31/2020-23:53:07.055834  [**] [1:10022:1] naver.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:59810 -> 210.89.171.11:443
+05/31/2020-23:53:07.366917  [**] [1:10022:1] naver.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:45758 -> 110.93.147.5:443
+05/31/2020-23:53:07.887411  [**] [1:10022:1] naver.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:38230 -> 210.89.172.40:443
+05/31/2020-23:53:17.722791  [**] [1:10021:1] google.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:58166 -> 172.217.174.100:443
+05/31/2020-23:53:17.968797  [**] [1:10021:1] google.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:58170 -> 172.217.174.100:443
+05/31/2020-23:53:19.705466  [**] [1:10005:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:50110 -> 172.217.174.100:80
+05/31/2020-23:53:19.864232  [**] [1:10021:1] google.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:58174 -> 172.217.174.100:443
+05/31/2020-23:53:20.584401  [**] [1:10021:1] google.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:35444 -> 216.58.217.3:443
+05/31/2020-23:53:21.061490  [**] [1:10021:1] google.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:37540 -> 172.217.161.46:443
+05/31/2020-23:53:21.520917  [**] [1:10021:1] google.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:48948 -> 216.58.197.194:443
+05/31/2020-23:53:21.593731  [**] [1:10021:1] google.com https/tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:34796 -> 216.58.197.174:443
