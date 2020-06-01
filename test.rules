@@ -4,7 +4,7 @@ alert tcp any any -> any 80 (msg:"kogoon.works access"; content:"GET /"; content
 alert tcp any any -> any 80 (msg:"github.com access"; content:"GET /"; content:"Host: "; content:"github.com"; sid:10004; rev:1;)
 alert tcp any any -> any 80 (msg:"google.com access"; content:"GET /"; content:"Host: "; content:"google.com"; sid:10005; rev:1;)
 alert tcp any any -> any 80 (msg:"tistory.com access"; content:"GET /"; content:"Host: "; content:"tistory.com"; sid:10006; rev:1;)
-alert tcp any any -> any 80 (msg:"youtube.com access"; content:"GET /"; content:"Host: "; content:"youtube.com"; sid:10007; rev:1;)
+alert tcp any any -> any 443 (msg:"youtube.com access"; content:"youtube.com"; nocase; pcre:"/youtube.com$/"; sid:10007; rev:2;)
 alert tcp any any -> any 80 (msg:"nexon.com access"; content:"GET /"; content:"Host: "; content:"nexon.com"; sid:10008; rev:1;)
 alert tcp any any -> any 80 (msg:"amazon.com access"; content:"GET /"; content:"Host: "; content:"amazon.com"; sid:10009; rev:1;)
 alert tcp any any -> any 80 (msg:"gitlab.com access"; content:"GET /"; content:"Host: "; content:"gitlab.com"; sid:10010; rev:1;)
