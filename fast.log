@@ -104,3 +104,6 @@
 05/31/2020-23:42:54.894518  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:41514 -> 104.16.118.145:443
 05/31/2020-23:42:55.548594  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:56108 -> 104.16.121.145:443
 05/31/2020-23:42:55.550614  [**] [1:10019:2] medium.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:40538 -> 104.16.119.145:443
+05/31/2020-23:46:38.731187  [**] [1:10010:2] gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:57238 -> 172.65.251.78:443
+05/31/2020-23:46:40.834480  [**] [1:10010:2] gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:36932 -> 151.101.66.49:443
+05/31/2020-23:46:42.588096  [**] [1:10010:2] gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:60292 -> 104.17.72.206:443
