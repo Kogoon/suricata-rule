@@ -107,3 +107,5 @@
 05/31/2020-23:46:38.731187  [**] [1:10010:2] gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:57238 -> 172.65.251.78:443
 05/31/2020-23:46:40.834480  [**] [1:10010:2] gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:36932 -> 151.101.66.49:443
 05/31/2020-23:46:42.588096  [**] [1:10010:2] gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:60292 -> 104.17.72.206:443
+05/31/2020-23:49:23.710214  [**] [1:10011:2] slack.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:40258 -> 52.198.217.116:443
+05/31/2020-23:49:25.991302  [**] [1:10007:3] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:50590 -> 172.217.175.78:443
