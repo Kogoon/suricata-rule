@@ -86,3 +86,7 @@
 05/31/2020-21:37:25.454144  [**] [1:10021:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:42242 -> 172.217.31.174:443
 05/31/2020-21:37:35.273375  [**] [1:10021:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:42268 -> 172.217.31.174:443
 05/31/2020-21:41:28.307348  [**] [1:10021:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:58330 -> 172.217.25.78:443
+05/31/2020-23:38:47.967400  [**] [1:10023:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:35476 -> 52.78.231.108:443
+05/31/2020-23:38:49.515702  [**] [1:10023:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:41676 -> 54.180.75.25:443
+05/31/2020-23:40:04.960776  [**] [1:10004:2] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:33582 -> 15.164.81.167:443
+05/31/2020-23:40:05.569286  [**] [1:10004:2] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.152:37170 -> 13.209.163.61:443
